@@ -2,7 +2,7 @@
     "name": "chronotype-vscode-theme",
     "displayName": "Chronotype Theme",
     "description": "A custom theme for anytime development.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "cr-jr",
     "license": "MIT",
     "engines": {
@@ -18,6 +18,11 @@
                 "label": "Chronotype: Morning",
                 "uiTheme": "vs",
                 "path": "./themes/chronotype-morning.color-theme.json"
+            },
+            {
+                "label": "Chronotype: Evening",
+                "uiTheme": "vs-dark",
+                "path": "./themes/chronotype-evening.color-theme.json"
             }
         ]
     }
