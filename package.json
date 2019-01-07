@@ -2,7 +2,7 @@
     "name": "chronotype-vscode-theme",
     "displayName": "Chronotype Theme",
     "description": "A custom theme for anytime development.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "cr-jr",
     "license": "MIT",
     "engines": {

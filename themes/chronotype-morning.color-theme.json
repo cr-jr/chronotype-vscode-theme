@@ -333,7 +333,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#97608eff"
+				"foreground": "#191a28ff"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#869859ff"
+				"foreground": "#191a28ff"
 			}
 		},
 		{
@@ -485,7 +485,8 @@
 			"name": "CSS: Property Names",
 			"scope": [
 				"meta.property-name",
-				"support.type.property-name"
+        "support.type.property-name",
+
 			],
 			"settings": {
 				"foreground": "#191a28ff"
@@ -508,7 +509,15 @@
 			"settings": {
 				"fontStyle": "bold"
 			}
-		},
+    },
+    {
+      "name": "JS/TS(X): Object Literal Keys",
+      "scope": "meta.object-literal.key",
+      "settings": {
+        "foreground": "#191a28ff",
+        "fontStyle": "bold"
+      }
+    },
 		{
 			"name": "Markup: Emphasis",
 			"scope": "markup.italic",
