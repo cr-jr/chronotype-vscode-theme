@@ -4,6 +4,12 @@ class Sale {
     ;[this.decoratorsList, this.price] = [[], price]
   }
 
+  /**
+   * Testing documentation comments.
+   *
+   * @param {*} decorator
+   * @memberof Sale
+   */
   decorate(decorator) {
     if (!Sale[decorator]) throw new Error(`decorator not exist: ${decorator}`)
     this.decoratorsList.push(Sale[decorator])
