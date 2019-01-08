@@ -164,8 +164,9 @@
 		"titleBar.inactiveForeground": "#39313e99",
 		"widget.shadow": "#39313e34",
 		//"editor.hoverHighlightBackground": "#add6ff26",
-		//"editor.inactiveSelectionBackground": "#cdc6bd66",
-		//"editor.lineHighlightBorder": "#eeeeee",
+    //"editor.inactiveSelectionBackground": "#cdc6bd66",
+    "editor.lineHighlightBackground": "#cdc6bda8"
+		//"editor.lineHighlightBorder": "#e9e8df",
 		//"editor.snippetFinalTabstopHighlightBorder": "#0a326480",
 		//"editor.snippetTabstopHighlightBackground": "#0a326433",
 		//"editor.stackFrameHighlightBackground": "#ffff6673",
