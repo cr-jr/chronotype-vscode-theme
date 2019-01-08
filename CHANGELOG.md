@@ -3,11 +3,13 @@ All notable changes to the "chronotype-vscode-theme" extension will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-- Noon and midnight themes
+## [0.2.0]
+- Completed the UI for morning theme
+- Added screenshots of UI and syntax for morning theme
+- Readme updated from VSCode template
 
 ## [0.1.1]
-- Keep object notation consistent
+- Syntax tweaks
 
 ## [0.1.0]
 - Created morning theme
