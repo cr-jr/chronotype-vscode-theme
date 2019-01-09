@@ -3,7 +3,11 @@
 This is a living record of all the notable changes "chronotype-vscode-theme" incurs during its development and upkeep. If you're unsure about the state of the project, this is the first place to look.
 
 ## [Unreleased]
+
+## [0.3.0]
 - Updates the Change Log
+- Updates syntax highlighting for daytime themes
+- Adds more screenshots of the syntax
 
 ## [0.2.0]
 - Completed the UI for morning theme

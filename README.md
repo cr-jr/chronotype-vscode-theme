@@ -26,14 +26,28 @@ Enjoy :grin:
 
 #### CSS
 
+![Chronotype: Morning - CSS](images/syntax/morning-css.png)
+
 #### JavaScript
 
-#### TypeScript
+![Chronotype: Morning - JS](images/syntax/morning-js.png)
 
 #### React
 
+![Chronotype: Morning - React](images/syntax/morning-react.png)
+
 #### Vue
+
+![Chronotype: Morning - Vue](images/syntax/morning-vue.png)
+
+#### Angular
+
+![Chronotype: Morning - Angular](images/syntax/morning-angular.png)
 
 #### PHP
 
+![Chronotype: Morning - PHP](images/syntax/morning-php.png)
+
 #### Ruby
+
+![Chronotype: Morning - Ruby](images/syntax/morning-ruby.png)
