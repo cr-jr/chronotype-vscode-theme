@@ -1,7 +1,9 @@
 # Change Log
-All notable changes to the "chronotype-vscode-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+This is a living record of all the notable changes "chronotype-vscode-theme" incurs during its development and upkeep. If you're unsure about the state of the project, this is the first place to look.
+
+## [Unreleased]
+- Updates the Change Log
 
 ## [0.2.0]
 - Completed the UI for morning theme
