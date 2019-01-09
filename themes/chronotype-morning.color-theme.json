@@ -269,9 +269,10 @@
   // foreground: #39313e,
   // comments: #958483
   // primary: #33b18f
-  // a: #b13355,
+  // a: #b15033,
   // b: #94b133,
-  // c: #5033b1
+  // c: #3394b1,
+  // d: #5033b1
   "tokenColors": [
     {
       "settings": {
@@ -332,7 +333,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#33b18f",
+        "foreground": "#b15033",
         "fontStyle": "bold"
       }
     },
@@ -344,7 +345,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#b13355",
+        "foreground": "#39313e",
         "fontStyle": "bold"
       }
     },
@@ -385,7 +386,7 @@
       "name": "Exceptions",
       "scope": "entity.name.exception",
       "settings": {
-        "foreground": "#33b18f"
+        "foreground": "#5033b1"
       }
     },
     {
@@ -410,7 +411,7 @@
       "name": "Numbers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#94b133",
+        "foreground": "#3394b1",
         "fontStyle": "bold"
       }
     },
@@ -418,7 +419,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#b13355"
+        "foreground": "#3394b1"
       }
     },
     {
@@ -440,7 +441,7 @@
       "name": "Strings: Symbols",
       "scope": "constant.other.symbol",
       "settings": {
-        "foreground": "#5033b1"
+        "foreground": "#3394b1"
       }
     },
     {
@@ -466,7 +467,7 @@
       "name": "HTML: Tag Names",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#33b18f",
+        "foreground": "#b15033",
         "fontStyle": "bold"
       }
     },
@@ -487,7 +488,7 @@
         "punctuation.definition.entity"
       ],
       "settings": {
-        "foreground": "#5033b1"
+        "foreground": "#3394b1"
       }
     },
     {
@@ -511,7 +512,7 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#b13355"
+        "foreground": "#b15033"
       }
     },
     {
@@ -570,7 +571,7 @@
         "markup.italic"
       ],
       "settings": {
-        "foreground": "#5033b1"
+        "foreground": "#3394b1"
       }
     },
     {
