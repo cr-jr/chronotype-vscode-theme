@@ -2,6 +2,12 @@
 
 This is a living record of all the notable changes "chronotype-vscode-theme" incurs during its development and upkeep. If you're unsure about the state of the project, this is the first place to look.
 
+## [0.5.0]
+- Trim the README
+- Adopt [Alabaster Theme philosophy](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster) for syntax
+- Add a note about minimal UI
+- Uses the original UI colors for syntax
+
 ## [0.4.0]
 - Complete evening UI and syntax theme
 - Added screenshots of Chronotype: Evening
