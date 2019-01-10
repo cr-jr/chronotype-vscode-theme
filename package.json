@@ -1,9 +1,18 @@
 {
     "name": "chronotype-vscode-themes",
+    "author": "Chatman R. Jr <crjr.code@gmail.com>",
     "displayName": "Chronotype Themes",
     "description": "Custom VSCode themes for pleasant, productive programming around the clock.",
     "version": "0.6.0",
     "publisher": "cr-jr",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cr-jr/chronotype-vscode-theme.git"
+    },
+    "bugs": {
+      "url": "https://github.com/cr-jr/chronotype-vscode-theme/issues",
+      "email": "crjr.code@gmail.com"
+    },
     "license": "MIT",
     "engines": {
         "vscode": "^1.30.0"
@@ -12,6 +21,10 @@
         "Themes"
     ],
     "icon": "icon.png",
+    "galleryBanner": {
+      "color": "#e9e8df",
+      "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
