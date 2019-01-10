@@ -6,6 +6,16 @@
   - [Soft Themes](#soft-themes)
     - [Chronotype: Morning](#chronotype-morning)
     - [Chronotype: Evening](#chronotype-evening)
+  - [Hard Themes](#hard-themes)
+    - [Chronotype: Midday](#chronotype-midday)
+    - [Chronotype: Midnight](#chronotype-midnight)
+  - [Syntax Demo](#syntax-demo)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+    - [React](#react)
+    - [Vue](#vue)
+    - [Angular](#angular)
 
 # Chronotype Themes
 
@@ -53,3 +63,45 @@ I took it step further and added additional classes:
 ### Chronotype: Evening
 
 ![Chronotype: Evening UI Demo](images/ui/evening-ui.png)
+
+## Hard Themes
+
+### Chronotype: Midday
+
+![Chronotype: Midday UI Demo](images/ui/midday-ui.png)
+
+### Chronotype: Midnight
+
+![Chronotype: Midnight UI Demo](images/ui/midnight-ui.png)
+
+## Syntax Demo
+
+### HTML
+
+![HTML Light](images/syntax/html-light.png)
+![HTML Dark](images/syntax/html-dark.png)
+
+### CSS
+
+![CSS Light](images/syntax/css-light.png)
+![CSS Dark](images/syntax/css-dark.png)
+
+### JavaScript
+
+![JS Light](images/syntax/js-light.png)
+![JS Dark](images/syntax/js-dark.png)
+
+### React
+
+![React Light](images/syntax/react-light.png)
+![React Dark](images/syntax/react-dark.png)
+
+### Vue
+
+![Vue Light](images/syntax/vue-light.png)
+![Vue Dark](images/syntax/vue-dark.png)
+
+### Angular
+
+![Angular Light](images/syntax/angular-light.png)
+![Angular Dark](images/syntax/angular-dark.png)
