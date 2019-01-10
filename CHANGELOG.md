@@ -2,6 +2,11 @@
 
 This is a living record of all the notable changes "chronotype-vscode-theme" incurs during its development and upkeep. If you're unsure about the state of the project, this is the first place to look.
 
+## [0.6.0]
+- Added Midday and Midnight themes
+- Added screenshots of Midday and Midnight themes
+- Official release
+
 ## [0.5.0]
 - Trim the README
 - Adopt [Alabaster Theme philosophy](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster) for syntax
