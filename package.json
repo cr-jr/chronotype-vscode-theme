@@ -3,7 +3,7 @@
     "author": "Chatman R. Jr <crjr.code@gmail.com>",
     "displayName": "Chronotype Themes",
     "description": "Custom VSCode themes for pleasant, productive programming around the clock.",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "publisher": "cr-jr",
     "repository": {
       "type": "git",
@@ -23,7 +23,7 @@
     "icon": "icon.png",
     "galleryBanner": {
       "color": "#e9e8df",
-      "theme": "dark"
+      "theme": "light"
     },
     "contributes": {
         "themes": [
