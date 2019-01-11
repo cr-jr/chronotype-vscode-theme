@@ -2,6 +2,9 @@
 
 This is a living record of all the notable changes "chronotype-vscode-theme" incurs during its development and upkeep. If you're unsure about the state of the project, this is the first place to look.
 
+## [0.6.3]
+- Adds relevant keywords to make it easier to find in the market
+
 ## [0.6.2]
 - Fixes the VS Code Marketplace theme
 - Adds the VS Code Marketplace link to README
