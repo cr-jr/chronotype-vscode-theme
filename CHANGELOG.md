@@ -2,6 +2,9 @@
 
 This is a living record of all the notable changes "chronotype-vscode-theme" incurs during its development and upkeep. If you're unsure about the state of the project, this is the first place to look.
 
+## [0.6.4]
+- Updates the logo
+
 ## [0.6.3]
 - Adds relevant keywords to make it easier to find in the market
 
