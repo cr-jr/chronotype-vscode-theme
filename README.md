@@ -21,7 +21,7 @@
 
 Chronotype is a collection of themes created for pleasant, productive programming around the clock.
 
-![Get it at the VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=cr-jr.chronotype-vscode-themes)
+[Get it at the VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=cr-jr.chronotype-vscode-themes)
 
 ## Motivation
 
