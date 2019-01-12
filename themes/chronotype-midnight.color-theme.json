@@ -97,7 +97,7 @@
     "list.invalidItemForeground": "#d1ac34",
     "list.warningForeground": "#f98f48",
     "menu.separatorBackground": "#888888",
-    "menubar.selectionBackground": "#292a2e",
+    "menubar.selectionBackground": "#47474a",
     "menubar.selectionForeground": "#cfcecc",
     "notificationCenterHeader.background": "#292a2e",
     "notificationLink.foreground": "#d1ac34a8",
