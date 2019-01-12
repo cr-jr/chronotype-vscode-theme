@@ -2,6 +2,10 @@
 
 This is a living record of all the notable changes "chronotype-vscode-theme" incurs during its development and upkeep. If you're unsure about the state of the project, this is the first place to look.
 
+## [0.6.6]
+- Fixes dark theme menubar issue
+- Fixes noFolderBackground omission
+
 ## [0.6.5]
 - Fixes the marketplace link
 
